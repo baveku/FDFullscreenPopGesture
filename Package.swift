@@ -12,6 +12,6 @@ let package = Package(
     ],
     targets: [
         .target(name: "FDFullscreenPopGesture",
-                path: "Source", publicHeadersPath: "Headers")
+                path: "Source")
     ]
 )
